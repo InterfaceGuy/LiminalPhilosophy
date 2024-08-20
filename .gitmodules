@@ -1,3 +1,60 @@
 [submodule "DreamSongUI"]
 	path = DreamSongUI
 	url = https://github.com/InterfaceGuy/DreamSongUI
+[submodule "StoryMediatesRelationship"]
+	path = StoryMediatesRelationship
+	url = https://github.com/InterfaceGuy/StoryMediatesRelationship.git
+[submodule "LiminalMind"]
+	path = LiminalMind
+	url = https://github.com/InterfaceGuy/LiminalMind.git
+[submodule "BalancedStoryBalancedDance"]
+	path = BalancedStoryBalancedDance
+	url = https://github.com/InterfaceGuy/BalancedStoryBalancedDance.git
+[submodule "Vision"]
+	path = Vision
+	url = https://github.com/InterfaceGuy/Vision.git
+[submodule "DomesticatedMind"]
+	path = DomesticatedMind
+	url = https://github.com/InterfaceGuy/DomesticatedMind.git
+[submodule "Love"]
+	path = Love
+	url = https://github.com/InterfaceGuy/Love.git
+[submodule "CoCreation"]
+	path = CoCreation
+	url = https://github.com/InterfaceGuy/CoCreation.git
+[submodule "DancePrecedesDancer"]
+	path = DancePrecedesDancer
+	url = https://github.com/InterfaceGuy/DancePrecedesDancer.git
+[submodule "ImbalancedStoryImbalancedDance"]
+	path = ImbalancedStoryImbalancedDance
+	url = https://github.com/InterfaceGuy/ImbalancedStoryImbalancedDance.git
+[submodule "Competition"]
+	path = Competition
+	url = https://github.com/InterfaceGuy/Competition.git
+[submodule "Transcendentals"]
+	path = Transcendentals
+	url = https://github.com/InterfaceGuy/Transcendentals.git
+[submodule "UsingStoryAsTool"]
+	path = UsingStoryAsTool
+	url = https://github.com/InterfaceGuy/UsingStoryAsTool.git
+[submodule "Narrative"]
+	path = Narrative
+	url = https://github.com/InterfaceGuy/Narrative.git
+[submodule "ServingStoryAsBeing"]
+	path = ServingStoryAsBeing
+	url = https://github.com/InterfaceGuy/ServingStoryAsBeing.git
+[submodule "NarrativeWound"]
+	path = NarrativeWound
+	url = https://github.com/InterfaceGuy/NarrativeWound.git
+[submodule "NarrativeWarfare"]
+	path = NarrativeWarfare
+	url = https://github.com/InterfaceGuy/NarrativeWarfare.git
+[submodule "UpwardSpiralTowardsHeaven"]
+	path = UpwardSpiralTowardsHeaven
+	url = https://github.com/InterfaceGuy/UpwardSpiralTowardsHeaven.git
+[submodule "DownwardSpiralTowardsHell"]
+	path = DownwardSpiralTowardsHell
+	url = https://github.com/InterfaceGuy/DownwardSpiralTowardsHell.git
+[submodule "Fear"]
+	path = Fear
+	url = https://github.com/InterfaceGuy/Fear.git
